@@ -7,7 +7,7 @@ PImage die;
 
 final color BG_COLOR = color(128);
 final color DICE_COLOR = color(0);
-final color NUMBER_COLOR = color(0, 128, 255);
+final color NUMBER_COLOR = color(0, 255, 255);
 final color HELP_TEXT_COLOR = color(0);
 
 static final String HELP_TEXT_BASE = "# of sides: %d\n# of dice: %d\nPress F1 to show controls.";
